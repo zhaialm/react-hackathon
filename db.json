@@ -1,0 +1,16 @@
+{
+  "task": [
+    {
+      "name": "CSS",
+      "image": "https://img.flaticon.com/icons/png/512/732/732190.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF",
+      "description": "CSS – это формальный язык, служащий для описания оформления внешнего вида документа, созданного с использованием языка разметки (HTML, XHTML, XML). Название происходит от английского Cascading Style Sheets, что означает «каскадные таблицы стилей».",
+      "id": 1618397714692
+    },
+    {
+      "name": "HTML",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+      "description": " HTML код — что это такое простыми словами HTML (англ. \"hyper text markup language\" — язык гипертекстовой разметки) — это специальный язык разметки, который применяется при создании сайтов в интернете.",
+      "id": 1618397826093
+    }
+  ]
+}

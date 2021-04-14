@@ -1,0 +1,23 @@
+.footer{
+    background-color: black;
+    margin-top: 60px;
+}
+.footer_lorem{
+    background-color: rgb(17, 16, 16);
+}
+.com{
+    font-size: 20px;
+    color: white;
+}
+.footer_lorem ul{
+    width: 200px;
+}
+.title-lorem{
+    font-weight: 900;
+    font-size: 20px;
+}
+.year-2021{
+    font-size: 80px;
+    font-weight: 900;
+    color: yellow;
+}
